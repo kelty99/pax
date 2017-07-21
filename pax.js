@@ -56,8 +56,7 @@ function menu() {
   var count = 1
   var userName = prompt("Please enter your name", "User Name");
   while (userName == null) {
-    var userName = prompt("Please
-enter your name", "User Name");
+    var userName = prompt("Please enter your name", "User Name");
 };
 var location = prompt("Please enter your location", "Location");
 while (location == null) {
